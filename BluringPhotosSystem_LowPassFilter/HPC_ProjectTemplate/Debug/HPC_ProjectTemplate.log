@@ -1,0 +1,8 @@
+﻿  Source.cpp
+G:\My Academic Courses\3rd Level\2nd Symister\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(722,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+G:\My Academic Courses\3rd Level\2nd Symister\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(857,60): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+G:\My Academic Courses\3rd Level\2nd Symister\High Performance Computing\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(733,28): warning C4101: 'end': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> G:\My Academic Courses\3rd Level\2nd Symister\High Performance Computing\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
